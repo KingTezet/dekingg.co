@@ -1,36 +1,33 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Dekingg Ecosystem
 
-## Getting Started
+![Next.js](https://img.shields.io/badge/Next.js_16-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![FramerMotion](https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=blue)
 
-First, run the development server:
+> **Live Production:** [Visit Dekingg.co]([https://dekingg-co.vercel.app/])
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Dekingg is the holding ecosystem driving innovation across enterprise software architecture, premium precious metals brokerage, and executive mobility. This repository holds the frontend architecture for the parent company's digital presence.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🏗️ Architecture & Tech Stack
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+This project is built with a focus on high performance, precise Golden Ratio typography, and enterprise-grade UI/UX.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- **Framework:** [Next.js 16](https://nextjs.org/) (App Router)
+- **Styling:** [Tailwind CSS](https://tailwindcss.com/) (Custom True Glassmorphism)
+- **Animations:** [Framer Motion](https://www.framer.com/motion/) (Hardware-accelerated)
+- **Icons:** [Lucide React](https://lucide.dev/)
+- **Typography:** Inter (Swiss-style typographic scale)
+- **Deployment:** Vercel (Edge Network)
 
-## Learn More
+## 🏢 Subsidiaries
 
-To learn more about Next.js, take a look at the following resources:
+1. **Dekingg TechLab:** Enterprise web infrastructure and high-performance frontend architecture.
+2. **Dekingg Gold:** Premium precious metals brokerage powered by real-time algorithmic spread calculation.
+3. **Dekingg Auto:** Executive mobility networks and integrated automotive asset management.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 👨‍💻 Principal Architect
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+**Moch Sugih Nugraha** *Tech Manager & Principal Architect* Specializing in End-to-End Web Architecture—from robust server-side logic to high-performance frontends—and metric-driven UI/UX.
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+© 2026 Dekingg Ecosystem. All rights reserved. | Sumedang, Indonesia.
